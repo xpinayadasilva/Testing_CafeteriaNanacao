@@ -1,0 +1,22 @@
+{
+  "name": "desafiofinal_cafeteriananacao",
+  "version": "1.0.0",
+  "description": "Test de Cafeteria Nanacao",
+  "main": "index.js",
+  "directories": {
+    "test": "jest --forceExit"
+  },
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "keywords": [],
+  "author": "Ximena",
+  "license": "ISC",  
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "supertest": "^7.1.1"
+  }
+}
